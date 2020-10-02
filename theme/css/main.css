@@ -445,3 +445,31 @@ ul.pagination li {
 ul.pagination li.active {
   font-weight: bold;
 }
+
+
+.archive {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/*
+.archive {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-gap: 32px;
+  grid-auto-flow: dense;
+}
+*/
+
+/* Extra-wide grid-posts */
+/* .garticle:nth-child(31n + 1) {
+  grid-column: 1 / -1;
+}
+.garticle:nth-child(16n + 2) {
+  grid-column: -3 / -1;
+}
+.garticle:nth-child(16n + 10) {
+  grid-column: 1 / -2;
+}
+*/
+/* Single column display for phones */
