@@ -1,6 +1,6 @@
 ---
 title: "Dwarf Galaxies"
-excerpt: "Stellar streams are thin tracks of stars that tell us a lot about the structure of our Galaxy"
+excerpt: "Low-mass objects in the Local Group. Usually very dark matter dominated and hard to find!"
 layout: single
 number: 4
 header:
