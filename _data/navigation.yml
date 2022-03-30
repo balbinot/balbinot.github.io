@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "CV/Bio"
+    url: /CV/
+  - title: "Publications"
+    url: /publications/
+  - title: "Press"
+    url: /press/
+  - title: "Sandbox"
+    url: /sandbox/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
