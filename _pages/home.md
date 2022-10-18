@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-This is my new website. If you need the old one click [HERE](https://www.astro.rug.nl/~balbinot/files/oldwebsite/).
-
 I am an astrophysicist based at the Kapteyn Institute at the University of
 Groningen. As a postdoc in Prof. Amina Helmi's group I work with resolved stellar
 populations in the nearby Universe. I mainly use statistical tools to mine for

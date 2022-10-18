@@ -8,11 +8,12 @@ author_profile: true
 This is my new website. If you need the old version for some reason you can find it [HERE](https://www.astro.rug.nl/~balbinot/files/oldwebsite/).
 
 I am an astrophysicist based at the Kapteyn Institute at the University of
-Groningen. As a postdoc in Prof. Amina Helmi's group I work with resolved stellar
-populations in the nearby Universe. I mainly use statistical tools to mine for
-faint signal in large databases coming from photometric and astrometric
-surveys. Ultimately I find and model dwarf galaxies and stellar streams, which
-have only a handful of stars among billions of contaminating ones.
+Groningen and at the Leiden Observatory. As a postdoc in Prof. Amina Helmi's
+group I work with resolved stellar populations in the nearby Universe. I mainly
+use statistical tools to mine for faint signal in large databases coming from
+photometric and astrometric surveys. Ultimately I find and model dwarf galaxies
+and stellar streams, which have only a handful of stars among billions of
+contaminating ones.
 
 I also have a variety of interests in neighboring fields such as multiple
 populations in globular clusters, the structure and star formation of the LMC,
