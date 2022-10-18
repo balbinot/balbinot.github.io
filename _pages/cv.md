@@ -19,7 +19,9 @@ focussed mainly on the dynamics of globular clusters and dwarf galaxies, heavily
 linked to large photometric/astrometric surveys.  Since 2018 I have been working
 on galactic archeology as a postdoc with Prof.  Amina Helmi at the Kapteyn
 Institute in the University of Groningen (NL). My main focus now is on Gaia and
-near-future spectroscopic surveys, such as WEAVE and 4MOST.
+near-future spectroscopic surveys, such as WEAVE and 4MOST. I recently moved to
+the Leiden Observatory to continue working on the same topics, this time in the
+group of Dr. Anthony Brown, but still closely associated with the group in Groninigen. 
 
 
 
