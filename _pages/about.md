@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I am rebuilding this website. The old version can be found [HERE](https://www.astro.rug.nl/~balbinot/files/oldwebsite/).
+This is my new website. If you need the old version for some reason you can find it [HERE](https://www.astro.rug.nl/~balbinot/files/oldwebsite/).
 
 I am an astrophysicist based at the Kapteyn Institute at the University of
 Groningen. As a postdoc in Prof. Amina Helmi's group I work with resolved stellar
