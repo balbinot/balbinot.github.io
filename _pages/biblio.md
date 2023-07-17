@@ -1,6 +1,6 @@
 ## First author
 
-1.[*ED-2: a cold but not so narrow stellar stream crossing the Solar neighbourhood*](https://arxiv.org/abs/2306.02756) <br/> **Balbinot, E.**; et al.               (**2023**; A&A submitted; 0 citations)
+1. [*ED-2: a cold but not so narrow stellar stream crossing the Solar neighbourhood*](https://arxiv.org/abs/2306.02756) <br/> **Balbinot, E.**; et al.               (**2023**; A&A submitted; 0 citations)
 2. [*Evidence for C and Mg variations in the GD-1 stellar stream*](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1837B/abstract) <br/> **Balbinot, E.**; Cabrera-Ziri, Ivan; Lardo, Carmela               (**2022**; MNRAS; 3 citations)
 3. [*Linking nearby stellar streams to more distant halo overdensities*](https://ui.adsabs.harvard.edu/abs/2021A&A...654A..15B/abstract) <br/> **Balbinot, E.**; Helmi, A.               (**2021**; A&A; 9 citations)
 4. [*The devil is in the tails: the role of globular cluster mass evolution on stream properties*](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2479B/abstract) <br/> **Balbinot, E.**; Gieles, Mark               (**2018**; MNRAS; 76 citations)
