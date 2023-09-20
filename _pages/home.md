@@ -5,9 +5,8 @@ permalink: /
 author_profile: true
 ---
 
-I am an astrophysicist based at the Kapteyn Institute at the University of
-Groningen. As a postdoc in Prof. Amina Helmi's group I work with resolved stellar
-populations in the nearby Universe. I mainly use statistical tools to mine for
+I am an astrophysicist based at the Leiden Observatory and a guest researcher at the Kapteyn Institute at the University of
+Groningen. I mainly use statistical tools to mine for
 faint signal in large databases coming from photometric and astrometric
 surveys. Ultimately I find and model dwarf galaxies and stellar streams, which
 have only a handful of stars among billions of contaminating ones.
