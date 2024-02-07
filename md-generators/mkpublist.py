@@ -5,7 +5,7 @@ with open('ads_token', 'r') as fin:
     tk = fin.read().strip()
     na.ADS.TOKEN = tk
 
-na.ADS.NROWS = 200
+na.ADS.NROWS = 600
 na.ADS.SORT = 'asc bibcode'
 na.ADS.ADS_FIELDS = ['author', 'title', 'pubdate', 'bibcode', 'citation_count', 'doctype', 'bibstem']
 results = na.ADS.query_simple('Balbinot, Eduardo doctype:article')
