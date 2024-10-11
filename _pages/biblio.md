@@ -1,6 +1,6 @@
 ## First author
 
-1. [*The 33 M⊙ black hole Gaia BH3 is part of the disrupted ED-2 star cluster*]([https://ui.adsabs.harvard.edu/abs/2023A&A...678A.115B/abstract](https://ui.adsabs.harvard.edu/abs/2024A%26A...687L...3B/abstract)){:target='_blank'} <br/> **Balbinot, E.** et al  (A&A; 10 citations)
+1. [*The 33 M⊙ black hole Gaia BH3 is part of the disrupted ED-2 star cluster*](https://ui.adsabs.harvard.edu/abs/2024A%26A...687L...3B/abstract){:target='_blank'} <br/> **Balbinot, E.** et al  (A&A; 10 citations)
 2.  [*ED-2: A cold but not so narrow stellar stream crossing the solar neighbourhood*](https://ui.adsabs.harvard.edu/abs/2023A&A...678A.115B/abstract){:target='_blank'} <br/> **Balbinot, E.**; Helmi, A.; Callingham, T.; Matsuno, T.; Dodd, E.; Ruiz-Lara, T.           (A&A; 11 citations)
 3. [*Evidence for C and Mg variations in the GD-1 stellar stream*](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.5802B/abstract){:target='_blank'} <br/> **Balbinot, E.**; Cabrera-Ziri, Ivan; Lardo, Carmela           (MNRAS; 8 citations)
 4. [*Linking nearby stellar streams to more distant halo overdensities*](https://ui.adsabs.harvard.edu/abs/2021A&A...654A..15B/abstract){:target='_blank'} <br/> **Balbinot, E.**; Helmi, A.           (A&A; 13 citations)
